@@ -1,0 +1,1250 @@
+FD,Family,Type,Laddr,Raddr,Status,Pid,Uids
+0,AF_INET,TCP,"{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 22
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 443
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,0,[]
+58,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8889
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 631
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 1515
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 1514
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 55000
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,0,[]
+59,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8000
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+56,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8001
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+57,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8003
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",LISTEN,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46568
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34248
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46558
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34206
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34234
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46532
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 48414
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+61,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8001
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 43878
+}",ESTABLISHED,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 48528
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""192.168.64.10"",
+ ""port"": 46514
+}","{
+ ""ip"": ""34.120.208.123"",
+ ""port"": 443
+}",LAST_ACK,0,[]
+72,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 49204
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8000
+}",ESTABLISHED,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34222
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+60,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 43878
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8001
+}",ESTABLISHED,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 51846
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 51858
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46544
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+73,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8000
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 49204
+}",ESTABLISHED,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+62,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 49188
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8000
+}",ESTABLISHED,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_INET,TCP,"{
+ ""ip"": ""192.168.64.10"",
+ ""port"": 1514
+}","{
+ ""ip"": ""192.168.64.11"",
+ ""port"": 37903
+}",ESTABLISHED,0,[]
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34196
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+71,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 8000
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 49188
+}",ESTABLISHED,29822,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_INET,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46520
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""::"",
+ ""port"": 22
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""::"",
+ ""port"": 9090
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""::1"",
+ ""port"": 631
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9300
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""::"",
+ ""port"": 55000
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",LISTEN,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46558
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46520
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46544
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34248
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46532
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34196
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""fd26:a0b:8f3e:faac:cd4:1dff:febd:4e4d"",
+ ""port"": 40870
+}","{
+ ""ip"": ""2606:4700:8ca7:e608:67a5:0:6c84:7023"",
+ ""port"": 443
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 48528
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 51858
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 46568
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 48414
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 51846
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34206
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34222
+}",ESTABLISHED,0,[]
+0,AF_INET6,TCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 9200
+}","{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 34234
+}",ESTABLISHED,0,[]
+0,AF_INET,UCP,"{
+ ""ip"": ""192.168.64.10"",
+ ""port"": 68
+}","{
+ ""ip"": ""192.168.64.1"",
+ ""port"": 67
+}",NONE,0,[]
+0,AF_INET,UCP,"{
+ ""ip"": ""127.0.0.1"",
+ ""port"": 323
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_INET,UCP,"{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 5353
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",NONE,0,[]
+8,AF_INET,UCP,"{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 38153
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",NONE,28645,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+9,AF_INET,UCP,"{
+ ""ip"": ""192.168.64.10"",
+ ""port"": 3702
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",NONE,28645,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+7,AF_INET,UCP,"{
+ ""ip"": ""239.255.255.250"",
+ ""port"": 3702
+}","{
+ ""ip"": ""0.0.0.0"",
+ ""port"": 0
+}",NONE,28645,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+11,AF_INET6,UCP,"{
+ ""ip"": ""::"",
+ ""port"": 36951
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",NONE,28645,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_INET6,UCP,"{
+ ""ip"": ""::1"",
+ ""port"": 323
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_INET6,UCP,"{
+ ""ip"": ""fe80::cd4:1dff:febd:4e4d"",
+ ""port"": 546
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_INET6,UCP,"{
+ ""ip"": ""::"",
+ ""port"": 5353
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",NONE,0,[]
+12,AF_INET6,UCP,"{
+ ""ip"": ""fe80::cd4:1dff:febd:4e4d"",
+ ""port"": 3702
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",NONE,28645,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+10,AF_INET6,UCP,"{
+ ""ip"": ""ff02::c"",
+ ""port"": 3702
+}","{
+ ""ip"": ""::"",
+ ""port"": 0
+}",NONE,28645,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": """",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+159,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/bus"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2850,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+8,AF_UNIX,TCP,"{
+ ""ip"": ""/home/dhinesh/.cache/ibus/dbus-KdP6niRn"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,3069,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/journal/stdout"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/router/subscription.sock"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/tasks/upgrade"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/remote"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/gdm/dbus/dbus-Iwa8WvLe"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/tasks/task"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/dbus/system_bus_socket"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/router/deltas-syscollector"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": """",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+12,AF_UNIX,TCP,"{
+ ""ip"": ""/tmp/.ICE-unix/2916"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2916,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/db/wdb"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/private"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/tmp/.java_pid5517.tmp"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/lvm/lvmpolld.socket"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX," 5","{
+ ""ip"": ""/run/systemd/coredump"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+34,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/pipewire-0"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,3400,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/io.systemd.Credentials"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX," 5","{
+ ""ip"": ""/run/udev/control"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/userdb/io.systemd.Multiplexer"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+31,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/at-spi/bus"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2995,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/router/rsync"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/monitor"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+22,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/pulse/native"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,3415,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/spice-vdagentd/spice-vdagent-sock"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+61,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/wayland-0"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2942,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,UCP,"{
+ ""ip"": ""/run/systemd/notify"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+14,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/gvfsd/wsdd"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,28645,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,UCP,"{
+ ""ip"": ""/run/user/1000/systemd/notify"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": ""/run/chrony/chronyd.sock"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/userdb/io.systemd.DynamicUser"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+9,AF_UNIX,TCP,"{
+ ""ip"": ""@/tmp/.X11-unix/X1"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,3296,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/systemd/private"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/io.systemd.ManagedOOM"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+4,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/pipewire-0-manager"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,3400,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/journal/io.systemd.journal"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": ""/run/systemd/journal/dev-log"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": ""/run/systemd/journal/socket"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/router/wdb-agent-events"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+6,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/keyring/control"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2832,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/var/run/lsm/ipc/sim"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/var/run/lsm/ipc/simc"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+11,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/keyring/ssh"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2832,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/gdm/dbus/dbus-KKWSK2Ca"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/router/policy"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/router/wdb-inventory-events"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+14,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/keyring/pkcs11"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2832,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+5,AF_UNIX,TCP,"{
+ ""ip"": ""/tmp/.X11-unix/X0"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,3296,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+38,AF_UNIX,TCP,"{
+ ""ip"": ""/tmp/.X11-unix/X1"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2942,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+12,AF_UNIX,TCP,"{
+ ""ip"": ""@/tmp/.X11-unix/X0"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,3296,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+9,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/gvfsd/socket-XDXieRQ8"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,28634,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/auth"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/wdb-http.sock"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/com"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": ""queue/alerts/execq"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": ""queue/sockets/queue"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/syscheck"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": ""queue/alerts/cfgarq"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": ""queue/alerts/ar"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/logtest"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/logcollector"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/analysis"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/io.systemd.BootControl"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,UCP,"{
+ ""ip"": ""queue/alerts/cfgaq"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/io.systemd.sysext"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/download"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/wmodules"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/control"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""queue/sockets/updater-ondemand"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+12,AF_UNIX,TCP,"{
+ ""ip"": ""/run/user/1000/gvfsd/socket-wZfc6NtM"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,28640,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/avahi-daemon/socket"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/cups/cups.sock"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/ssh-unix-local/socket"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/.heim_org.h5l.kcm-socket"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""/run/systemd/io.systemd.Hostname"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""@92bdda44d312eeb6/bus/dbus-broker-lau/system"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+11,AF_UNIX,TCP,"{
+ ""ip"": ""@/tmp/.ICE-unix/2916"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2916,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+11,AF_UNIX,TCP,"{
+ ""ip"": ""@4c66e5db3185c8f6/bus/dbus-broker-lau/user"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2849,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""@ISCSID_UIP_ABSTRACT_NAMESPACE"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""@8157ccab6f39d502/bus/systemd/bus-system"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""@e48002e2b5f1a7a6/bus/systemd-logind/system"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+11,AF_UNIX,TCP,"{
+ ""ip"": ""@5720fe7e19637c08/bus/dbus-broker-lau/user"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,2994,"[
+ 1000,
+ 1000,
+ 1000,
+ 1000
+]"
+0,AF_UNIX,TCP,"{
+ ""ip"": ""@28937b80823df186/bus/systemd/bus-api-system"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""@ISCSIADM_ABSTRACT_NAMESPACE"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]
+0,AF_UNIX,TCP,"{
+ ""ip"": ""@ef5f0422921d49dc/bus/systemd/bus-api-user"",
+ ""port"": 0
+}","{
+ ""ip"": """",
+ ""port"": 0
+}",NONE,0,[]

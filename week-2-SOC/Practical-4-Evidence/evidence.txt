@@ -1,0 +1,4 @@
+Evidence collected: Thu Apr  9 07:07:24 PM EDT 2026
+File: netstat-output.csv
+Collected By: Dhinesh - SOC Analyst
+Hash: 9cf3027e813a3e0ba6b248fec99529f119cacc44fe1cf1d6f7318a50316bcc2e  /home/dhinesh/netstat-output.csv
