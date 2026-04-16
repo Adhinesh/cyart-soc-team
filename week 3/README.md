@@ -1,16 +1,5 @@
 
-# SOC Analyst Portfolio: End-to-End Threat Detection & Response
-
-This repository documents a comprehensive series of SOC (Security Operations Center) lab tasks. It spans the full incident response lifecycle, from log correlation and threat intelligence integration to evidence preservation and executive reporting.
-
-## 🛠️ Tech Stack
-*   **SIEM/XDR:** Elastic Security, Wazuh, Security Onion
-*   **Threat Intel:** AlienVault OTX, VirusTotal
-*   **Forensics:** FTK Imager, Velociraptor
-*   **Orchestration & IR:** TheHive, Splunk Phantom (SOAR), CrowdSec
-*   **Attacking Tools:** Metasploit (Metasploitable2)
-
----
+# week 3 Task
 
 ## 📂 Project Modules
 
@@ -77,11 +66,4 @@ This repository documents a comprehensive series of SOC (Security Operations Cen
 
 ---
 
-## 📈 Key Accomplishments
-1.  **Integrity First:** Maintained a 100% hash-match rate across all forensic acquisitions.
-2.  **Automation:** Reduced manual escalation time by implementing SOAR playbooks.
-3.  **Visibility:** Mapped all detections to the **MITRE ATT&CK Framework**.
 
----
-## 🏁 Conclusion
-This lab series demonstrates a readiness to handle real-world security incidents, from the initial "noisy" alert to the final executive briefing.
