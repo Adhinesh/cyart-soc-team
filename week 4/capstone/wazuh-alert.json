@@ -1,0 +1,67 @@
+{
+  "_index": "wazuh-alerts-4.x-2026.04.30",
+  "_id": "7FjL3p0B2dRMQUxXV9Gq",
+  "_version": 1,
+  "_score": null,
+  "_source": {
+    "previous_log": "ossec: output: 'netstat listening ports':\ntcp 0.0.0.0:22 0.0.0.0:* /usr\ntcp6 :::22 :::* /usr\nudp 192.168.1.26:68 0.0.0.0:* 2032/systemd-networ\nudp 127.0.0.1:323 0.0.0.0:* 1889/chronyd\nudp6 ::1:323 :::* 1889/chronyd\ntcp 0.0.0.0:443 0.0.0.0:* 1762/node\nudp6 fe80::a00:27ff:fe73:546 :::* 2032/systemd-networ\ntcp 0.0.0.0:1514 0.0.0.0:* 2610/wazuh-remoted\ntcp 0.0.0.0:1515 0.0.0.0:* 2475/wazuh-authd\ntcp 0.0.0.0:55000 0.0.0.0:* 2403/python3\ntcp6 :::55000 :::* 2403/python3",
+    "input": {
+      "type": "log"
+    },
+    "agent": {
+      "name": "wazuh-server",
+      "id": "000"
+    },
+    "previous_output": "Previous output:\nossec: output: 'netstat listening ports':\ntcp 0.0.0.0:22 0.0.0.0:* /usr\ntcp6 :::22 :::* /usr\nudp 192.168.1.26:68 0.0.0.0:* 2032/systemd-networ\nudp 127.0.0.1:323 0.0.0.0:* 1889/chronyd\nudp6 ::1:323 :::* 1889/chronyd\ntcp 0.0.0.0:443 0.0.0.0:* 1762/node\nudp6 fe80::a00:27ff:fe73:546 :::* 2032/systemd-networ\ntcp 0.0.0.0:1514 0.0.0.0:* 2610/wazuh-remoted\ntcp 0.0.0.0:1515 0.0.0.0:* 2475/wazuh-authd\ntcp 0.0.0.0:55000 0.0.0.0:* 2403/python3\ntcp6 :::55000 :::* 2403/python3",
+    "manager": {
+      "name": "wazuh-server"
+    },
+    "rule": {
+      "firedtimes": 1,
+      "mail": false,
+      "level": 7,
+      "pci_dss": [
+        "10.2.7",
+        "10.6.1"
+      ],
+      "hipaa": [
+        "164.312.b"
+      ],
+      "tsc": [
+        "CC6.8",
+        "CC7.2",
+        "CC7.3"
+      ],
+      "description": "Listened ports status (netstat) changed (new port opened or closed).",
+      "groups": [
+        "ossec"
+      ],
+      "id": "533",
+      "nist_800_53": [
+        "AU.14",
+        "AU.6"
+      ],
+      "gpg13": [
+        "10.1"
+      ],
+      "gdpr": [
+        "IV_35.7.d"
+      ]
+    },
+    "location": "netstat listening ports",
+    "decoder": {
+      "name": "ossec"
+    },
+    "id": "1777559359.14287",
+    "full_log": "ossec: output: 'netstat listening ports':\ntcp 0.0.0.0:22 0.0.0.0:* /usr\ntcp6 :::22 :::* /usr\nudp 192.168.1.26:68 0.0.0.0:* 2032/systemd-networ\nudp 127.0.0.1:323 0.0.0.0:* 1889/chronyd\nudp6 ::1:323 :::* 1889/chronyd\ntcp 0.0.0.0:443 0.0.0.0:* 1762/node\nudp6 fe80::a00:27ff:fe73:546 :::* 2032/systemd-networ\ntcp 0.0.0.0:1514 0.0.0.0:* 2610/wazuh-remoted\ntcp 0.0.0.0:1515 0.0.0.0:* 2475/wazuh-authd\ntcp6 127.0.0.1:9200 :::* 2092/java\ntcp6 127.0.0.1:9300 :::* 2092/java\ntcp 0.0.0.0:55000 0.0.0.0:* 2403/python3\ntcp6 :::55000 :::* 2403/python3",
+    "timestamp": "2026-04-30T14:29:19.377+0000"
+  },
+  "fields": {
+    "timestamp": [
+      "2026-04-30T14:29:19.377Z"
+    ]
+  },
+  "sort": [
+    1777559359377
+  ]
+}
